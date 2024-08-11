@@ -4,7 +4,7 @@ I'm a passionate programmer and developer currently studying at SLIIT.
 
 ## Get to know me!
 
-For my personal Projects check out my public profile on github @PMTDVA 
+For my personal Projects check out my public profile on [Github](https://github.com/PMTDVA/PDEJ):
 
 
 
