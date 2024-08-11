@@ -4,7 +4,7 @@ I'm a passionate programmer and developer currently studying at SLIIT.
 
 ## Get to know me!
 
-I'm a 19-year-old enthusiast eager to learn and contribute to the open-source community.
+For my personal Projects check out my public profile on github @PMTDVA 
 
 
 
